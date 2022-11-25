@@ -1,0 +1,3 @@
+states: q0, q1, q2
+final states: q1, q2
+alphabet: a-z, 0-9
